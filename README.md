@@ -2,6 +2,9 @@
 
 Simple tab to manually trigger webhook deploys
 
+![Tux, the Linux mascot](./docs/webhook-deploy.png)
+
+
 ## Installation
 
 ```
